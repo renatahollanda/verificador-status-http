@@ -1,4 +1,4 @@
-# Verificador de Status de Sites
+# Verificador de Status Code HTTP
 
 Um script Python para verificar o status HTTP de múltiplos sites.
 
