@@ -65,6 +65,7 @@ Um script Python para verificar o status code HTTP de múltiplos sites.
 * `sites.txt`: Lista de sites para verificar;
 * `sites_status.csv`: Resultados das verificações;
 * `check_sites.py`: Script principal;
+* `requirements.txt`: Dependências;
 * `setup.sh`: Script de configuração do ambiente no Linux;
 * `setup.bat`: Script de configuração do ambiente no Windows;
 * `README.md`: Documentação.
