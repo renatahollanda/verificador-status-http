@@ -1,6 +1,6 @@
 # Verificador de Status Code HTTP
 
-Um script Python para verificar o status HTTP de múltiplos sites.
+Um script Python para verificar o status code HTTP de múltiplos sites.
 
 
 ## Como usar 
